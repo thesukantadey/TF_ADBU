@@ -10,8 +10,8 @@
 ## **<font color=”068632”>Resource Person: Sukanta Dey, IIT Guwahati</font>**
 
 
----
+NOTE: 
 
----
+1. Upload the .ipynb file into your Google Drive and open it using Google Colab (Colaboratory). 
 
-NOTE: You have to run all the code cells chronogically. If you don't do so, you may face error while you execute some depenent python commands which was defined in previous cells.
+2. You have to run all the code cells chronogically. If you don't do so, you may face error while you execute some depenent python commands which was defined in previous cells.
